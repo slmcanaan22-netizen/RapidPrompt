@@ -1,0 +1,8 @@
+{
+  "name": "RapidPrompt",
+  "description": "A sophisticated toolkit for crafting, optimizing, and managing high-performance AI prompts with a minimalist, modern interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
